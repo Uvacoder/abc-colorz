@@ -7,8 +7,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "validate": "eslint . --ignore-path .gitignore --ext js --ext vue",
-    "test": "npm run validate",
-    "deploy": "./deploy.sh"
+    "test": "npm run validate"
   },
   "dependencies": {
     "@vueuse/core": "^8.1.1",
