@@ -9,7 +9,7 @@ export default defineConfig({
     port: 3000,
   },
 
-  base: process.env.NODE_ENV === 'production' ? '/palette/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/abc-color-palettes/' : '/',
 
   resolve: {
     alias: {
