@@ -5,9 +5,7 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "validate": "eslint . --ignore-path .gitignore --ext js --ext vue",
-    "test": "npm run validate"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@vueuse/core": "^8.1.1",
