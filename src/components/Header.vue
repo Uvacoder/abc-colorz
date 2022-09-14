@@ -3,7 +3,7 @@
     class="flex flex-col sm:flex-row justify-between items-center px-4 md:px-6 py-4 bg-gray-700 text-white"
   >
     <h1 class="mb-4 sm:mb-0 text-xl uppercase font-bold tracking-widest">
-      Palette
+      Colorz
     </h1>
 
     <div class="flex justify-between gap-6 w-full sm:w-auto sm:-my-2">
